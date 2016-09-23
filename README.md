@@ -27,9 +27,8 @@ You can change the port number by setting the `$PORT` environment variable befor
 PORT=3001 node server.js
 ```
 
-## Build notes
-
-...
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)
+
+
+![Deploy](https://www.herokucdn.com/deploy/button.png)
